@@ -81,7 +81,7 @@ if city:
                 st_folium(map, width=700)
 
     except Exception as e:
-        st.error(f"🚨 Error: {e}")
+        st.error(f"🚨 Error: {e}
 
                             
 
