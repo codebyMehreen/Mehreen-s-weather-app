@@ -6,7 +6,7 @@ Get real-time weather updates, local sunrise/sunset times, and view your city on
 - 📍 City geolocation
 - 🏳️ Country flag
 - 🌤️ Current weather: temperature, humidity, wind
-- 🥵 Feels-like temperature comparison
+- 🥵 Feels-like temperature comparison   
 - 🌅 Local sunrise and sunset times
 - 🗺️ Folium-powered city map
 
@@ -22,4 +22,4 @@ Get real-time weather updates, local sunrise/sunset times, and view your city on
 
 ---
 
-📦 Powered by Python · Created by Mehreen
+📦 Powered by Python · Created by Mehreen.
